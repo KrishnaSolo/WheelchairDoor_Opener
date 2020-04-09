@@ -1,7 +1,9 @@
 # WheelchairDoor
 Arduino code for transmitter and motor controller
 
-Heavy Credit must be given to: https://www.hobbyist.co.nz/?q=convert-dc-motor-to-servo-using-arduino - alot of the code was inspired by this
+Heavy Credit must be given to: https://www.hobbyist.co.nz/?q=convert-dc-motor-to-servo-using-arduino
+                               https://www.instructables.com/id/Wirelessly-Control-A-Robot-Using-Arduino-and-RF-Mo/
+                               - would not have been able to do this project without their help -
 
 
 Designed a door opener for a client with ALS - final presentation and demo can be found below:
